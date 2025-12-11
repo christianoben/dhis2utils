@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+*.env
+venv/
+.env.local
+
+# Django
+media/
+staticfiles/
+
+# Node
+node_modules/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Expo/React Native
+.expo/
+.expo-shared/
+.DS_Store
+
+# Virtualenvs
+backend/.venv/
